@@ -1,7 +1,4 @@
 
-<div id="header" align="center">
-  <img src = "https://media.giphy.com/media/S3PBXqHjKL9GZhK2Yv/giphy.gif"
-  </div>
  <img src="https://komarev.com/ghpvc/?username=tony9lee&style=flat-square&color=blue" alt=""/>
   <h1>
     Hello Everyone!
