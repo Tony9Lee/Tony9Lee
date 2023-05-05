@@ -1,15 +1,14 @@
 
  <img src="https://komarev.com/ghpvc/?username=tony9lee&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hello Everyone!
+    Hello Everyone, my name is Tony.
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    </h1>
    :man_technologist: About Me :
    I am a Full Stack Engineer from California, USA.
  :seedling:
 
-- :zap: In my free time, I love to learn new technologies and helping out others in projects.
-
+- :zap: In my free time, I love to read and go out. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tony-lee-50689683/)
 
 :hammer_and_wrench: Languages and Tools :
